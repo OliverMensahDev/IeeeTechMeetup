@@ -1,4 +1,6 @@
 .nimbella
+.deployed
+node_modules
 __deployer__.zip
 __pycache__/
 .DS_Store

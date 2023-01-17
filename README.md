@@ -13,3 +13,4 @@
  - Install and setup doctl
 : https://docs.digitalocean.com/reference/doctl/how-to/install/
  - Follow this tutorial on how to be build JAMStack app on DigitalOcean: https://docs.digitalocean.com/tutorials/create-a-jamstack-site-using-serverless-functions/# IeeeTechMeetup
+# IeeeTechMeetup
