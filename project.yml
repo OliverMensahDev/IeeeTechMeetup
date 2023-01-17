@@ -1,0 +1,6 @@
+packages:
+  - name: ieeetechweek
+    actions:
+      - name: getParticipants
+environment:
+  DB_URL: ${DB_URL}

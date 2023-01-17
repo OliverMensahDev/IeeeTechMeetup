@@ -1,0 +1,19 @@
+[
+  {
+    "apihost": "https://faas-fra1-afec6ce7.doserverless.co",
+    "namespace": "fn-cc56ce79-08c0-4dc2-8be7-c6eabd473581",
+    "packageVersions": {
+      "ieeetechweek": {
+        "version": "0.0.2",
+        "digest": "499d5ddeac11ad9392d053cd25e5b49725680308855fc6710707d6607fa16d47"
+      }
+    },
+    "actionVersions": {
+      "ieeetechweek/getParticipants": {
+        "version": "0.0.2",
+        "digest": "53af8bb9d4c439efe7d192d684037523650d7f97e0fcdd1e8999603211127c74"
+      }
+    },
+    "webHashes": {}
+  }
+]
